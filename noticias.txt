@@ -1,0 +1,50 @@
+        <!-- inicio sección de noticias -->
+        <div id="noticias" class="seccion-noticias">
+            <article class="news-info">
+                <div class="news-header">
+                    <img class="news-info__imagen" src="https://img.lalr.co/cms/2021/10/01175208/U0A9307.jpg?size=sm" alt="">
+                    <h2 class="news-info__title">Primera feria de emprendimiento</h2>
+                </div>
+                <p class="news-info__text">
+                    Más de 200 marcas locales se vincularon a la iniciativa y esperan fortalecer sus negocios tras el impacto que generó la pandemia. </p>
+                    Con el objetivo de impulsar la reactivación de los emprendimientos, más de 200 marcas locales se unieron para crear la Asociación de Emprendedores en Colombia. Y además de conformar la asociación, anunciaron el lanzamiento de una nueva feria, llamada Vassar, en la que podrán exponer sus productos. https://www.larepublica.co/
+            </article>
+
+            <article class="news-info">
+                <div class="news-header">
+                    <img class="news-info__imagen" src="https://img.lalr.co/cms/2020/09/23165500/%C3%89xito-900.jpg?size=sm" alt="">
+                    <h2 class="news-info__title">Grupo Éxito e iNNpulsa abren sus puertas a emprendedores</h2>
+                </div>
+                <p class="news-info__text">
+                    Además del respaldo de la marca, tendrán la capacidad de enviar productos a más de 1.200 municipios en el territorio nacional
+                      Como muestra del compromiso con la reactivación laboral y económica del país, Grupo Éxito e iNNpulsa pondrán en marcha una nueva convocatoria que busca incluir a más de 300 emprendedores y Pyme en el marketplace de la marca Éxito.
+                    https://www.larepublica.co/
+                </p>
+            </article>
+
+            <article class="news-info">
+                <div class="news-header">
+                    <img class="news-info__imagen" src="https://www.sena.edu.co/es-co/Noticias/NoticiasImg/El-SENA-tiene-abiertas-inscripciones.jpg?size=sm" alt="" width="500" height="300">
+                    <h2 class="news-info__title">SENA capacitará a miles de emprendedores</h2>
+                </div>
+                <p class="news-info__text">
+                  Hasta el próximo 15 de diciembre los interesados podrán inscribirse en los cursos de emprendimiento digital y comportamiento emprendedor que abrió el Sena.
+
+Buscando la forma de generar mayores competencias para los emprendedores colombianos, el Sena creó la iniciativa ´Aprendiendo a Emprender´, la cual, pretende para finales del 2022, instruir asertivamente a más de un millón de personas.
+                    <br>Para el 2021, beneficiaremos a 300 mil personas y en el marco de la estrategia ‘Sena: Futuro para los jóvenes’, impactaremos a 100 mil de ellos, entre 14 y 28 años. Para el 2022, llegaremos a 700.000 mil ciudadanos”, señaló la directora de Formación Profesional del Sena, Nidia Gómez. #RCNnoticias</br>
+                </p>
+            </article>
+
+            <article class="news-info">
+                <div class="news-header">
+                    <img class="news-info__imagen" src="https://www.fondoemprender.com/SiteAssets/FE%202020%20Home/img/MiniConv81.jpg" alt="" height="300" width="300">
+                    <h2 class="news-info__title">Nueva convocatoria del Fondo Emprender</h2>
+                </div>
+                <p class="news-info__text">
+                  El Fondo emprender del Sena tiene abiertas dos convocatorias por $22 mil millones para emprendedores jóvenes y personas en condición de discapacidad; y la Secretaría de Desarrollo Económico cuenta con $8.800 millones para emprendimientos de la capital. ¿Cómo recibir los recursos?
+                  En agosto se vencen tres convocatorias que le permitirán conseguir recursos para su emprendimiento. Cómo inscribirse, en qué consisten y cuánto recibe, aquí les resolvemos todas las dudas.
+                </p>
+            </article>
+
+        </div>
+        <!-- fin sección de noticias -->
